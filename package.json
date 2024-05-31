@@ -1,0 +1,9 @@
+{
+  "name": "settlement-negotiation-app",
+  "scripts": {
+    "start:frontend": "cd frontend && npm run dev",
+    "start:backend": "cd backend && npm start"
+  },
+  "author": "Carson Woods",
+  "license": "ISC"
+}
